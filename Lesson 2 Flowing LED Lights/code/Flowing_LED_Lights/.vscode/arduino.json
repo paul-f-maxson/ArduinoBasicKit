@@ -1,5 +1,0 @@
-{
-    "port": "/dev/cu.usbmodem1411",
-    "board": "arduino:avr:uno",
-    "sketch": "Flowing_LED_Lights.ino"
-}

@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/cu.usbmodem1411",
-    "sketch": "Lesson 1 Button/code/Button/Button.ino"
+    "sketch": "Lesson 5 Photoresistor/code/photoTest/photoTest.ino"
 }
